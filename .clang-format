@@ -1,0 +1,22 @@
+Language: Cpp
+ColumnLimit: 75
+IndentWidth: 2
+
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterCaseLabel: false
+  BeforeElse: true
+BracedInitializerIndentWidth: 2
+BreakAfterAttributes: Always
+FixNamespaceComments: true
+IncludeBlocks: Regroup
+IndentCaseLabels: true
+IndentPPDirectives: AfterHash
+InsertBraces: true
+KeepEmptyLines:
+  AtEndOfFile: false
+  AtStartOfBlock: false
+  AtStartOfFile: false
+NamespaceIndentation: All
+PPIndentWidth: 2
+PointerAlignment: Right
