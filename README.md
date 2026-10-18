@@ -1,7 +1,7 @@
 # Random Graphics
 ## About
 
-Random program made using sokol gfx and others.
+Random program made using OpenGL ES and others.
 
 ## License
 
